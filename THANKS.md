@@ -6,5 +6,6 @@ A special thanks to the following individuals and groups for making this possibl
 * **Gabriel Aguiar Prod**
 * **git-amend**
 * **Freedom Coding**
+* **Sasquatch B Studios**
 
 Your contributions have been invaluable in bringing this project to life. ❤️
