@@ -21,3 +21,5 @@ This project reflects my expertise in **shader programming, real-time VFX, and t
 
 
 🔗 **[Watch the cinematic here](https://asafelbaz6.wixsite.com/mysite)**
+🎥 **![Viktor Cinematic Preview](assets/viktor_cinematic.gif)**
+
